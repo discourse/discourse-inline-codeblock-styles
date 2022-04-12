@@ -1,0 +1,7 @@
+p>code {
+  color: var($inline_codeblock_color);
+  font-weight: $inline_codeblock_weight;
+  background: rgba(var(--primary-rgb),0.125);
+  padding: 3px 5px 2px 5px;
+  border-radius: 5px;
+}

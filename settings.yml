@@ -1,3 +1,17 @@
 inline_codeblock_color:
   default: --primary
-  type: list
+  type: enum
+  choices:
+    - --primary
+    - --tertiary
+    - --quaternary
+    - --danger
+    - --success
+
+inline_codeblock_weight:
+  default: 500
+  type: enum
+  choices:
+    - 500
+    - 700
+    - 900
