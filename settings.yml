@@ -7,11 +7,17 @@ inline_codeblock_color:
     - --quaternary
     - --danger
     - --success
-
 inline_codeblock_weight:
   default: 500
   type: enum
   choices:
     - 500
     - 700
-    - 900
+inline_codeblock_border_radius:
+  default: 3px
+  type: enum
+  choices:
+    - 0px
+    - 3px
+    - 5px
+    - 10px
