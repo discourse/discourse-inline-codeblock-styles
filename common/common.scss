@@ -1,6 +1,5 @@
 p > code,
-li > code,
-pre > code {
+li > code {
   color: var($inline_codeblock_color);
   font-weight: $inline_codeblock_weight;
   background: rgba(var(--primary-rgb), 0.125);
