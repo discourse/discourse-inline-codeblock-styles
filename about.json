@@ -1,7 +1,7 @@
 {
-  "name": "Customized inline codeblocks",
-  "about_url": null,
-  "license_url": null,
+  "name": "Customized Inline Codeblocks",
+  "about_url": "https://meta.discourse.org/t/customized-inline-codeblocks/229452",
+  "license_url": "https://github.com/discourse/discourse-inline-codeblock-styles/blob/main/LICENSE",
   "component": true,
   "assets": {
   },
