@@ -2,7 +2,7 @@ p > code,
 li > code {
   color: var($inline_codeblock_color);
   font-weight: $inline_codeblock_weight;
-  background: rgba(var(--primary-rgb), 0.125);
+  background: rgb(var(--primary-rgb), 0.125);
   padding: 3px 5px 2px 5px;
   border-radius: $inline_codeblock_border_radius;
 }
